@@ -7,44 +7,44 @@ namespace clase1_01
         //Ingresar 5 números por consola, guardándolos en una variable escalar. Luego calcular y mostrar: el valor máximo, el valor mínimo y el promedio.
         static void Main(string[] args)
         {
-            int numero;
+            int numeroIngresado;
             string buffer;
-            bool codigoError;
-            int max = 0;
-            int min = 0;
-            int promedio;
-            int acum = 0;
-            bool yaPaso = false;
-            int i = 0;
+            bool hayError;
+            int maximoNumeroIngresado = 0;
+            int minimoNumeroIngresado = 0;
+            int promedioNumeroIngresado;
+            int acumulaadorNumeroIngresado = 0;
+            bool primerIteracion = false;
+            int iteracion = 0;
 
             do
             {
                 Console.WriteLine("Ingrese un número: ");
                 buffer = Console.ReadLine();
-                codigoError = int.TryParse(buffer, out numero);
+                hayError = int.TryParse(buffer, out numeroIngresado);
 
-                if (codigoError == true)
+                if (hayError == true)
                 {
-                    i++;
-                    acum += numero;
-                    if (yaPaso == false)
+                    iteracion++;
+                    acumulaadorNumeroIngresado += numeroIngresado;
+                    if (primerIteracion == false)
                     {
-                        max = numero;
-                        min = numero;
+                        maximoNumeroIngresado = numeroIngresado;
+                        minimoNumeroIngresado = numeroIngresado;
 
-                        yaPaso = true;
+                        primerIteracion = true;
 
                     }
                     else
                     {
-                        if (numero > max)
+                        if (numeroIngresado > maximoNumeroIngresado)
                         {
-                            max = numero;
+                            maximoNumeroIngresado = numeroIngresado;
                         }
 
-                        if (numero < min)
+                        if (numeroIngresado < minimoNumeroIngresado)
                         {
-                            min = numero;
+                            minimoNumeroIngresado = numeroIngresado;
                         }
                     }
 
@@ -55,12 +55,12 @@ namespace clase1_01
                     Console.WriteLine("Error al ingresar numero");
                 }
 
-            } while (i < 5);
+            } while (iteracion < 5);
 
-            promedio = acum / 5;
-            Console.WriteLine($"El promedio es: {promedio}");
-            Console.WriteLine($"El maximo es: {max}");
-            Console.WriteLine($"El minimo es: {min}");
+            promedioNumeroIngresado = acumulaadorNumeroIngresado / 5;
+            Console.WriteLine($"El promedio es: {promedioNumeroIngresado}");
+            Console.WriteLine($"El maximo es: {maximoNumeroIngresado}");
+            Console.WriteLine($"El minimo es: {minimoNumeroIngresado}");
 
 
         }
