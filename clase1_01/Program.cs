@@ -9,7 +9,7 @@ namespace clase1_01
         {
             int numeroIngresado;
             string buffer;
-            bool hayError;
+            bool noHayError;
             int maximoNumeroIngresado = 0;
             int minimoNumeroIngresado = 0;
             int promedioNumeroIngresado;
@@ -21,9 +21,9 @@ namespace clase1_01
             {
                 Console.WriteLine("Ingrese un número: ");
                 buffer = Console.ReadLine();
-                hayError = int.TryParse(buffer, out numeroIngresado);
+                noHayError = int.TryParse(buffer, out numeroIngresado);
 
-                if (hayError == true)
+                if (noHayError)
                 {
                     iteracion++;
                     acumulaadorNumeroIngresado += numeroIngresado;

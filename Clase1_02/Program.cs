@@ -8,7 +8,7 @@ namespace Clase1_02
         //caso contrario, mostrar el mensaje: "ERROR. ¡Reingresar número!".
         static void Main(string[] args)
         {
-            bool hayError;
+            bool noHayError;
             int numeroIngresado;
             string buffer;
             int cuadradoNumeroIngresado;
@@ -18,14 +18,14 @@ namespace Clase1_02
             {
                 Console.WriteLine("Ingrese un número: ");
                 buffer = Console.ReadLine();
-                hayError = int.TryParse(buffer, out numeroIngresado);
+                noHayError = int.TryParse(buffer, out numeroIngresado);
 
-                if (hayError == false || numeroIngresado < 1)
+                if (noHayError == false || numeroIngresado < 1)
                 {
                     Console.WriteLine("ERROR. !Reingresar número!");
                 }
 
-            } while (numeroIngresado < 1 || hayError == false);
+            } while (numeroIngresado < 1 || noHayError == false);
 
             cuboNumeroIngresado = (int)Math.Pow(numeroIngresado, 3);
             cuadradoNumeroIngresado = (int)Math.Pow(numeroIngresado, 2);
