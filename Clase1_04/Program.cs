@@ -9,7 +9,7 @@ namespace Clase1_04
 
     Escribir una aplicación que encuentre los 4 primeros números perfectos.
 
-    2^n-1 (2^n-1) formul euclides
+    2^n-1 (2^n-1) formul euclides -> tratar de hacerlo sin esto
      */
     internal class Program
     {
