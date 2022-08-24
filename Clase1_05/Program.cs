@@ -32,7 +32,7 @@ namespace Clase1_05
 
             } while (numeroIngresado > 1 && noHayError == false);
 
-            
+            //hago que i sea centro 
             for (int i = 1; i <= numeroIngresado; i++)
             {
 
