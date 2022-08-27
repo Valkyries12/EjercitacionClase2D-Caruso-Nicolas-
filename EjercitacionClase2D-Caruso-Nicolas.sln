@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "biblioteca_de_clases", "bib
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-Validador_de_rangos", "01-Validador_de_rangos\01-Validador_de_rangos.csproj", "{0C382A1E-41E6-42AF-8B28-F9DA7E13FC01}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-Desea_continuar", "02-Desea_continuar\02-Desea_continuar.csproj", "{4EDB453E-0C42-461D-8D23-3C86E4701A31}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{0C382A1E-41E6-42AF-8B28-F9DA7E13FC01}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C382A1E-41E6-42AF-8B28-F9DA7E13FC01}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C382A1E-41E6-42AF-8B28-F9DA7E13FC01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EDB453E-0C42-461D-8D23-3C86E4701A31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EDB453E-0C42-461D-8D23-3C86E4701A31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EDB453E-0C42-461D-8D23-3C86E4701A31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EDB453E-0C42-461D-8D23-3C86E4701A31}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -97,6 +103,7 @@ Global
 		{29FF5A1C-F363-4C8C-84E0-89E23EE496A6} = {4A502B83-CA36-41A0-B8FB-A45197EFDF6A}
 		{BA2EF824-ED3B-4086-9B78-F692A17509C1} = {C85222CE-F2B8-4C9A-9CBF-6E1696955409}
 		{0C382A1E-41E6-42AF-8B28-F9DA7E13FC01} = {E2035717-FF1F-4A80-B3CB-840D745DACDF}
+		{4EDB453E-0C42-461D-8D23-3C86E4701A31} = {E2035717-FF1F-4A80-B3CB-840D745DACDF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {45060E3C-845D-4305-A743-DB165AA756FE}
