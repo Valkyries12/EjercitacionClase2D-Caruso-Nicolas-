@@ -27,11 +27,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Biblioteca_de_clases", "Bib
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "clases_y_metodos_estaticos", "clases_y_metodos_estaticos", "{E2035717-FF1F-4A80-B3CB-840D745DACDF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "biblioteca_de_clases", "biblioteca_de_clases\biblioteca_de_clases.csproj", "{BA2EF824-ED3B-4086-9B78-F692A17509C1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "biblioteca_de_clases", "biblioteca_de_clases\biblioteca_de_clases.csproj", "{BA2EF824-ED3B-4086-9B78-F692A17509C1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-Validador_de_rangos", "01-Validador_de_rangos\01-Validador_de_rangos.csproj", "{0C382A1E-41E6-42AF-8B28-F9DA7E13FC01}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01-Validador_de_rangos", "01-Validador_de_rangos\01-Validador_de_rangos.csproj", "{0C382A1E-41E6-42AF-8B28-F9DA7E13FC01}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-Desea_continuar", "02-Desea_continuar\02-Desea_continuar.csproj", "{4EDB453E-0C42-461D-8D23-3C86E4701A31}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02-Desea_continuar", "02-Desea_continuar\02-Desea_continuar.csproj", "{4EDB453E-0C42-461D-8D23-3C86E4701A31}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "clases-y-metodos-estaticos", "clases-y-metodos-estaticos", "{49ECCF88-DBD3-4543-8D69-E1C9226051C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-Validador_de_rangoss", "01-Validador_de_rangoss\01-Validador_de_rangoss.csproj", "{1A2505C7-F576-4366-98B2-AD679081E64C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +91,10 @@ Global
 		{4EDB453E-0C42-461D-8D23-3C86E4701A31}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4EDB453E-0C42-461D-8D23-3C86E4701A31}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4EDB453E-0C42-461D-8D23-3C86E4701A31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A2505C7-F576-4366-98B2-AD679081E64C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A2505C7-F576-4366-98B2-AD679081E64C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A2505C7-F576-4366-98B2-AD679081E64C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A2505C7-F576-4366-98B2-AD679081E64C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -104,6 +112,7 @@ Global
 		{BA2EF824-ED3B-4086-9B78-F692A17509C1} = {C85222CE-F2B8-4C9A-9CBF-6E1696955409}
 		{0C382A1E-41E6-42AF-8B28-F9DA7E13FC01} = {E2035717-FF1F-4A80-B3CB-840D745DACDF}
 		{4EDB453E-0C42-461D-8D23-3C86E4701A31} = {E2035717-FF1F-4A80-B3CB-840D745DACDF}
+		{1A2505C7-F576-4366-98B2-AD679081E64C} = {49ECCF88-DBD3-4543-8D69-E1C9226051C6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {45060E3C-845D-4305-A743-DB165AA756FE}
