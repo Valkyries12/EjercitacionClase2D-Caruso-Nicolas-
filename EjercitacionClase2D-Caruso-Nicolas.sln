@@ -37,6 +37,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03-Conversor_binario", "03-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-La_calculadora", "04-La_calculadora\04-La_calculadora.csproj", "{E479710A-1F72-4E22-906F-09EFC7EEF34F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05-Aprendete_las_tablas", "05-Aprendete_las_tablas\05-Aprendete_las_tablas.csproj", "{CD3CDE80-8822-4B87-8481-A1982CB6FF33}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{E479710A-1F72-4E22-906F-09EFC7EEF34F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E479710A-1F72-4E22-906F-09EFC7EEF34F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E479710A-1F72-4E22-906F-09EFC7EEF34F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD3CDE80-8822-4B87-8481-A1982CB6FF33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD3CDE80-8822-4B87-8481-A1982CB6FF33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD3CDE80-8822-4B87-8481-A1982CB6FF33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD3CDE80-8822-4B87-8481-A1982CB6FF33}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -118,6 +124,7 @@ Global
 		{4EDB453E-0C42-461D-8D23-3C86E4701A31} = {E2035717-FF1F-4A80-B3CB-840D745DACDF}
 		{6846510A-02CA-4018-83D7-57D29FA8BB95} = {E2035717-FF1F-4A80-B3CB-840D745DACDF}
 		{E479710A-1F72-4E22-906F-09EFC7EEF34F} = {E2035717-FF1F-4A80-B3CB-840D745DACDF}
+		{CD3CDE80-8822-4B87-8481-A1982CB6FF33} = {E2035717-FF1F-4A80-B3CB-840D745DACDF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {45060E3C-845D-4305-A743-DB165AA756FE}
