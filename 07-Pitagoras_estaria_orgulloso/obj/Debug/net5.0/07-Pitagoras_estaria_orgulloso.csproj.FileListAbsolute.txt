@@ -1,0 +1,16 @@
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\07-Pitagoras_estaria_orgulloso\bin\Debug\net5.0\07-Pitagoras_estaria_orgulloso.exe
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\07-Pitagoras_estaria_orgulloso\bin\Debug\net5.0\07-Pitagoras_estaria_orgulloso.deps.json
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\07-Pitagoras_estaria_orgulloso\bin\Debug\net5.0\07-Pitagoras_estaria_orgulloso.runtimeconfig.json
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\07-Pitagoras_estaria_orgulloso\bin\Debug\net5.0\07-Pitagoras_estaria_orgulloso.runtimeconfig.dev.json
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\07-Pitagoras_estaria_orgulloso\bin\Debug\net5.0\07-Pitagoras_estaria_orgulloso.dll
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\07-Pitagoras_estaria_orgulloso\bin\Debug\net5.0\07-Pitagoras_estaria_orgulloso.pdb
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\07-Pitagoras_estaria_orgulloso\obj\Debug\net5.0\07-Pitagoras_estaria_orgulloso.csproj.AssemblyReference.cache
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\07-Pitagoras_estaria_orgulloso\obj\Debug\net5.0\07-Pitagoras_estaria_orgulloso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\07-Pitagoras_estaria_orgulloso\obj\Debug\net5.0\07-Pitagoras_estaria_orgulloso.AssemblyInfoInputs.cache
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\07-Pitagoras_estaria_orgulloso\obj\Debug\net5.0\07-Pitagoras_estaria_orgulloso.AssemblyInfo.cs
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\07-Pitagoras_estaria_orgulloso\obj\Debug\net5.0\07-Pitagoras_estaria_orgulloso.csproj.CoreCompileInputs.cache
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\07-Pitagoras_estaria_orgulloso\obj\Debug\net5.0\07-Pitagoras_estaria_orgulloso.dll
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\07-Pitagoras_estaria_orgulloso\obj\Debug\net5.0\refint\07-Pitagoras_estaria_orgulloso.dll
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\07-Pitagoras_estaria_orgulloso\obj\Debug\net5.0\07-Pitagoras_estaria_orgulloso.pdb
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\07-Pitagoras_estaria_orgulloso\obj\Debug\net5.0\07-Pitagoras_estaria_orgulloso.genruntimeconfig.cache
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\07-Pitagoras_estaria_orgulloso\obj\Debug\net5.0\ref\07-Pitagoras_estaria_orgulloso.dll
