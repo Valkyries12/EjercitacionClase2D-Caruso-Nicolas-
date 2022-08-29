@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "05-Aprendete_las_tablas": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}

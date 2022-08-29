@@ -8,6 +8,13 @@ namespace biblioteca_de_clases
 {
     public class Calculadora
     {
+        /// <summary>
+        /// Realiza la operacion entre los operandos en base el operador dado
+        /// </summary>
+        /// <param name="primerOperando">primer operando</param>
+        /// <param name="segundoOperando">segundo operando</param>
+        /// <param name="operacionMatematica">signo matematico para realizar el calculo</param>
+        /// <returns>resultado segun el signo, si es erratico devuelve 0</returns>
         public static int Calcular(int primerOperando, int segundoOperando, string operacionMatematica)
         {
             int resultado;
@@ -38,7 +45,11 @@ namespace biblioteca_de_clases
             return resultado;
         }
 
-
+        /// <summary>
+        /// valida que el segundo operando  no sea 0 
+        /// </summary>
+        /// <param name="segundoOperando"></param>
+        /// <returns>true si no es cero, de lo contrario false</returns>
         private static bool Validar(int segundoOperando)
         {
             bool esValido;
