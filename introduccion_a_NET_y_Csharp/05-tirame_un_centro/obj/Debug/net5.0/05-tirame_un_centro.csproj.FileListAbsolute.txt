@@ -1,0 +1,16 @@
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\introduccion_a_NET_y_Csharp\05-tirame_un_centro\bin\Debug\net5.0\05-tirame_un_centro.exe
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\introduccion_a_NET_y_Csharp\05-tirame_un_centro\bin\Debug\net5.0\05-tirame_un_centro.deps.json
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\introduccion_a_NET_y_Csharp\05-tirame_un_centro\bin\Debug\net5.0\05-tirame_un_centro.runtimeconfig.json
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\introduccion_a_NET_y_Csharp\05-tirame_un_centro\bin\Debug\net5.0\05-tirame_un_centro.runtimeconfig.dev.json
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\introduccion_a_NET_y_Csharp\05-tirame_un_centro\bin\Debug\net5.0\05-tirame_un_centro.dll
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\introduccion_a_NET_y_Csharp\05-tirame_un_centro\bin\Debug\net5.0\05-tirame_un_centro.pdb
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\introduccion_a_NET_y_Csharp\05-tirame_un_centro\obj\Debug\net5.0\05-tirame_un_centro.csproj.AssemblyReference.cache
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\introduccion_a_NET_y_Csharp\05-tirame_un_centro\obj\Debug\net5.0\05-tirame_un_centro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\introduccion_a_NET_y_Csharp\05-tirame_un_centro\obj\Debug\net5.0\05-tirame_un_centro.AssemblyInfoInputs.cache
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\introduccion_a_NET_y_Csharp\05-tirame_un_centro\obj\Debug\net5.0\05-tirame_un_centro.AssemblyInfo.cs
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\introduccion_a_NET_y_Csharp\05-tirame_un_centro\obj\Debug\net5.0\05-tirame_un_centro.csproj.CoreCompileInputs.cache
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\introduccion_a_NET_y_Csharp\05-tirame_un_centro\obj\Debug\net5.0\05-tirame_un_centro.dll
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\introduccion_a_NET_y_Csharp\05-tirame_un_centro\obj\Debug\net5.0\refint\05-tirame_un_centro.dll
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\introduccion_a_NET_y_Csharp\05-tirame_un_centro\obj\Debug\net5.0\05-tirame_un_centro.pdb
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\introduccion_a_NET_y_Csharp\05-tirame_un_centro\obj\Debug\net5.0\05-tirame_un_centro.genruntimeconfig.cache
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\introduccion_a_NET_y_Csharp\05-tirame_un_centro\obj\Debug\net5.0\ref\05-tirame_un_centro.dll

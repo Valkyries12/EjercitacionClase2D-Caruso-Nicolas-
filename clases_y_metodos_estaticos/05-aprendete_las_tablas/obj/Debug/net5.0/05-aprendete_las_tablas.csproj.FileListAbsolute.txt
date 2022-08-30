@@ -1,0 +1,16 @@
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\clases_y_metodos_estaticos\05-aprendete_las_tablas\bin\Debug\net5.0\05-aprendete_las_tablas.exe
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\clases_y_metodos_estaticos\05-aprendete_las_tablas\bin\Debug\net5.0\05-aprendete_las_tablas.deps.json
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\clases_y_metodos_estaticos\05-aprendete_las_tablas\bin\Debug\net5.0\05-aprendete_las_tablas.runtimeconfig.json
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\clases_y_metodos_estaticos\05-aprendete_las_tablas\bin\Debug\net5.0\05-aprendete_las_tablas.runtimeconfig.dev.json
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\clases_y_metodos_estaticos\05-aprendete_las_tablas\bin\Debug\net5.0\05-aprendete_las_tablas.dll
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\clases_y_metodos_estaticos\05-aprendete_las_tablas\bin\Debug\net5.0\05-aprendete_las_tablas.pdb
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\clases_y_metodos_estaticos\05-aprendete_las_tablas\obj\Debug\net5.0\05-aprendete_las_tablas.csproj.AssemblyReference.cache
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\clases_y_metodos_estaticos\05-aprendete_las_tablas\obj\Debug\net5.0\05-aprendete_las_tablas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\clases_y_metodos_estaticos\05-aprendete_las_tablas\obj\Debug\net5.0\05-aprendete_las_tablas.AssemblyInfoInputs.cache
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\clases_y_metodos_estaticos\05-aprendete_las_tablas\obj\Debug\net5.0\05-aprendete_las_tablas.AssemblyInfo.cs
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\clases_y_metodos_estaticos\05-aprendete_las_tablas\obj\Debug\net5.0\05-aprendete_las_tablas.csproj.CoreCompileInputs.cache
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\clases_y_metodos_estaticos\05-aprendete_las_tablas\obj\Debug\net5.0\05-aprendete_las_tablas.dll
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\clases_y_metodos_estaticos\05-aprendete_las_tablas\obj\Debug\net5.0\refint\05-aprendete_las_tablas.dll
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\clases_y_metodos_estaticos\05-aprendete_las_tablas\obj\Debug\net5.0\05-aprendete_las_tablas.pdb
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\clases_y_metodos_estaticos\05-aprendete_las_tablas\obj\Debug\net5.0\05-aprendete_las_tablas.genruntimeconfig.cache
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\clases_y_metodos_estaticos\05-aprendete_las_tablas\obj\Debug\net5.0\ref\05-aprendete_las_tablas.dll

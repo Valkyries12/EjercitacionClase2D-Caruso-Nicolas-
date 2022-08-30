@@ -1,0 +1,16 @@
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\introduccion_a_NET_y_Csharp\ConsoleApp1\bin\Debug\net5.0\01-Maximo_minimo_y_promedio.exe
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\introduccion_a_NET_y_Csharp\ConsoleApp1\bin\Debug\net5.0\01-Maximo_minimo_y_promedio.deps.json
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\introduccion_a_NET_y_Csharp\ConsoleApp1\bin\Debug\net5.0\01-Maximo_minimo_y_promedio.runtimeconfig.json
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\introduccion_a_NET_y_Csharp\ConsoleApp1\bin\Debug\net5.0\01-Maximo_minimo_y_promedio.runtimeconfig.dev.json
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\introduccion_a_NET_y_Csharp\ConsoleApp1\bin\Debug\net5.0\01-Maximo_minimo_y_promedio.dll
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\introduccion_a_NET_y_Csharp\ConsoleApp1\bin\Debug\net5.0\01-Maximo_minimo_y_promedio.pdb
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\introduccion_a_NET_y_Csharp\ConsoleApp1\obj\Debug\net5.0\01-Maximo_minimo_y_promedio.csproj.AssemblyReference.cache
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\introduccion_a_NET_y_Csharp\ConsoleApp1\obj\Debug\net5.0\01-Maximo_minimo_y_promedio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\introduccion_a_NET_y_Csharp\ConsoleApp1\obj\Debug\net5.0\01-Maximo_minimo_y_promedio.AssemblyInfoInputs.cache
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\introduccion_a_NET_y_Csharp\ConsoleApp1\obj\Debug\net5.0\01-Maximo_minimo_y_promedio.AssemblyInfo.cs
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\introduccion_a_NET_y_Csharp\ConsoleApp1\obj\Debug\net5.0\01-Maximo_minimo_y_promedio.csproj.CoreCompileInputs.cache
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\introduccion_a_NET_y_Csharp\ConsoleApp1\obj\Debug\net5.0\01-Maximo_minimo_y_promedio.dll
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\introduccion_a_NET_y_Csharp\ConsoleApp1\obj\Debug\net5.0\refint\01-Maximo_minimo_y_promedio.dll
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\introduccion_a_NET_y_Csharp\ConsoleApp1\obj\Debug\net5.0\01-Maximo_minimo_y_promedio.pdb
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\introduccion_a_NET_y_Csharp\ConsoleApp1\obj\Debug\net5.0\01-Maximo_minimo_y_promedio.genruntimeconfig.cache
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\introduccion_a_NET_y_Csharp\ConsoleApp1\obj\Debug\net5.0\ref\01-Maximo_minimo_y_promedio.dll
