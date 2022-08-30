@@ -8,6 +8,16 @@ namespace biblioteca_de_clases
 {
     public class Validador
     {
+
+        public static bool EsNumerico(string valor)
+        {
+            int numero;
+            bool esNumerico;
+            esNumerico = int.TryParse(valor, out numero);
+
+            return esNumerico;
+        }
+
         /// <summary>
         /// Valida un numero entero entre los rangos establecidos
         /// </summary>
@@ -15,12 +25,12 @@ namespace biblioteca_de_clases
         /// <param name="min">minimo valor ingresado</param>
         /// <param name="max">maximo valor ingresado</param>
         /// <returns>true si está dentro del rango establecido, de lo contrario false</returns>
-        public static bool Validar(int valor, int min, int max)
+        public static bool ValidarNumero(int valor, int min, int max)
         {
             bool resultado;
 
             resultado = false;
-            if (valor > -101 && valor < 101 && min < max)
+            if (valor > min && valor < max && min < max)
             {
                 resultado = true;
             }
@@ -36,7 +46,8 @@ namespace biblioteca_de_clases
         {
             bool resultado;
             string respuestaUsuario;
-            
+
+            resultado = false;
             Console.Write("¿Desea continuar? (S/N): ");
             respuestaUsuario = Console.ReadLine();
             respuestaUsuario.ToLower();
@@ -45,9 +56,6 @@ namespace biblioteca_de_clases
             if (respuestaUsuario == "s")
             {
                 resultado = true;
-            } else
-            {
-                resultado = false;
             }
 
             return resultado;

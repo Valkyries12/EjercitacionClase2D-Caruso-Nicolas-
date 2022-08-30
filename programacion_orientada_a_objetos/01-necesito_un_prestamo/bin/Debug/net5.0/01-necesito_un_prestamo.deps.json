@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "01-necesito_un_prestamo/1.0.0": {
+        "dependencies": {
+          "biblioteca_de_clases": "1.0.0"
+        },
+        "runtime": {
+          "01-necesito_un_prestamo.dll": {}
+        }
+      },
+      "biblioteca_de_clases/1.0.0": {
+        "runtime": {
+          "biblioteca_de_clases.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "01-necesito_un_prestamo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "biblioteca_de_clases/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
