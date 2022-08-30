@@ -62,5 +62,22 @@ namespace biblioteca_de_clases
 
             return esValido;
         }
+
+
+        public static int CalcularFactorial(int numeroIngresado)
+        {
+            int resultado;
+            int auxiliar;
+
+            resultado = 1;
+            auxiliar = numeroIngresado;
+            while (auxiliar > 1)
+            {
+                resultado = resultado * auxiliar;
+                auxiliar--;
+            }
+
+            return resultado;
+        }
     }
 }
