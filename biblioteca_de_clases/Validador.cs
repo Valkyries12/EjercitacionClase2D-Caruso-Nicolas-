@@ -9,11 +9,13 @@ namespace biblioteca_de_clases
     public class Validador
     {
 
-        public static bool EsNumerico(string valor)
+        public static bool EsNumericoInt(string valor)
         {
-            int numero;
+
+
+            int numeroTipoInt;
             bool esNumerico;
-            esNumerico = int.TryParse(valor, out numero);
+            esNumerico = int.TryParse(valor, out numeroTipoInt);
 
             return esNumerico;
         }
@@ -30,7 +32,7 @@ namespace biblioteca_de_clases
             bool resultado;
 
             resultado = false;
-            if (valor > min && valor < max && min < max)
+            if (valor >= min && valor <= max && min < max)
             {
                 resultado = true;
             }
@@ -61,5 +63,7 @@ namespace biblioteca_de_clases
             return resultado;
 
         }
+
+
     }
 }

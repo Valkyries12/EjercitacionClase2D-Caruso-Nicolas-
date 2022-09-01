@@ -1,7 +1,4 @@
-C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\biblioteca_de_clases\bin\Debug\net5.0\biblioteca_de_clases.exe
 C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\biblioteca_de_clases\bin\Debug\net5.0\biblioteca_de_clases.deps.json
-C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\biblioteca_de_clases\bin\Debug\net5.0\biblioteca_de_clases.runtimeconfig.json
-C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\biblioteca_de_clases\bin\Debug\net5.0\biblioteca_de_clases.runtimeconfig.dev.json
 C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\biblioteca_de_clases\bin\Debug\net5.0\biblioteca_de_clases.dll
 C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\biblioteca_de_clases\bin\Debug\net5.0\biblioteca_de_clases.pdb
 C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\biblioteca_de_clases\obj\Debug\net5.0\biblioteca_de_clases.csproj.AssemblyReference.cache
@@ -12,5 +9,4 @@ C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_
 C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\biblioteca_de_clases\obj\Debug\net5.0\biblioteca_de_clases.dll
 C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\biblioteca_de_clases\obj\Debug\net5.0\refint\biblioteca_de_clases.dll
 C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\biblioteca_de_clases\obj\Debug\net5.0\biblioteca_de_clases.pdb
-C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\biblioteca_de_clases\obj\Debug\net5.0\biblioteca_de_clases.genruntimeconfig.cache
 C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\biblioteca_de_clases\obj\Debug\net5.0\ref\biblioteca_de_clases.dll

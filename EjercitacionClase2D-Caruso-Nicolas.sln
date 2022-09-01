@@ -44,11 +44,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06-calculadora_de_areas", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07-pitagoras_estari_orgulloso", "clases_y_metodos_estaticos\07-pitagoras_estari_orgulloso\07-pitagoras_estari_orgulloso.csproj", "{873B38F9-FDFE-491E-A625-49C0BB4DD7A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A01-calcular_un_factorial", "clases_y_metodos_estaticos\A01-calcular_un_factorial\A01-calcular_un_factorial.csproj", "{31CF1ADD-41D0-4EF7-A427-88E60B22A9CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A01-calcular_un_factorial", "clases_y_metodos_estaticos\A01-calcular_un_factorial\A01-calcular_un_factorial.csproj", "{31CF1ADD-41D0-4EF7-A427-88E60B22A9CE}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "programacion_orientada_a_objetos", "programacion_orientada_a_objetos", "{EADDE1E1-2B4B-459C-896E-862649A0225A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-necesito_un_prestamo", "programacion_orientada_a_objetos\01-necesito_un_prestamo\01-necesito_un_prestamo.csproj", "{C9D8576C-399E-41C5-A2B4-09F4DC0C017C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01-necesito_un_prestamo", "programacion_orientada_a_objetos\01-necesito_un_prestamo\01-necesito_un_prestamo.csproj", "{C9D8576C-399E-41C5-A2B4-09F4DC0C017C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-cuantas_primavera", "programacion_orientada_a_objetos\02-cuantas_primavera\02-cuantas_primavera.csproj", "{62FA3BFD-9D24-4A7F-AE0D-2E7F4BC3186F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -128,6 +130,10 @@ Global
 		{C9D8576C-399E-41C5-A2B4-09F4DC0C017C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C9D8576C-399E-41C5-A2B4-09F4DC0C017C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C9D8576C-399E-41C5-A2B4-09F4DC0C017C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62FA3BFD-9D24-4A7F-AE0D-2E7F4BC3186F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62FA3BFD-9D24-4A7F-AE0D-2E7F4BC3186F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62FA3BFD-9D24-4A7F-AE0D-2E7F4BC3186F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62FA3BFD-9D24-4A7F-AE0D-2E7F4BC3186F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -151,6 +157,7 @@ Global
 		{873B38F9-FDFE-491E-A625-49C0BB4DD7A0} = {6EFD0C5D-8556-48DB-8740-8DE59A3AE58C}
 		{31CF1ADD-41D0-4EF7-A427-88E60B22A9CE} = {6EFD0C5D-8556-48DB-8740-8DE59A3AE58C}
 		{C9D8576C-399E-41C5-A2B4-09F4DC0C017C} = {EADDE1E1-2B4B-459C-896E-862649A0225A}
+		{62FA3BFD-9D24-4A7F-AE0D-2E7F4BC3186F} = {EADDE1E1-2B4B-459C-896E-862649A0225A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {45060E3C-845D-4305-A743-DB165AA756FE}
