@@ -9,6 +9,36 @@ namespace biblioteca_de_clases
     public class Validador
     {
 
+        public static bool GetInt(string mensaje, string mensajeError, out int pNumero, int valorMinimo, int valorMaximo, int cantidadReintentos)
+        {
+            pNumero = 0;
+            bool noHayError;
+            string valorIngresado;
+
+            noHayError = false;
+            if (mensaje is not null && mensajeError is not null && valorMinimo < valorMaximo && cantidadReintentos > 0)
+            {
+                
+                do
+                {
+                    cantidadReintentos--;
+                    Console.Write(mensaje);
+                    valorIngresado = Console.ReadLine();
+                    if (EsNumericoInt(valorIngresado) && ValidarNumero(int.Parse(valorIngresado), valorMinimo, valorMaximo))
+                    {
+                        noHayError = int.TryParse(valorIngresado, out pNumero);
+                        break;
+                    }
+                    else {
+                        Console.WriteLine(mensajeError);
+                    }
+
+                } while (cantidadReintentos > 0);
+            }
+
+            return noHayError;
+        }
+
         public static bool EsNumericoInt(string valor)
         {
 
