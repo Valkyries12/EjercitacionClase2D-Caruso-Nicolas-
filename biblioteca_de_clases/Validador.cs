@@ -8,7 +8,16 @@ namespace biblioteca_de_clases
 {
     public class Validador
     {
-
+        /// <summary>
+        /// valida si un valor es entero y esta entre los rangos indicados
+        /// </summary>
+        /// <param name="mensaje">mensaje a mostrar para la toma de datos</param>
+        /// <param name="mensajeError">mensje de error en caso de que falle la toma de datos</param>
+        /// <param name="pNumero">"puntero" donde se guardará el valor ingresado una vez validado</param>
+        /// <param name="valorMinimo">minimo valor aceptado</param>
+        /// <param name="valorMaximo">maximo valor aceptado</param>
+        /// <param name="cantidadReintentos">cantidad maxima de reintentos</param>
+        /// <returns>En caso de exito (true), de lo contrario (false)</returns>
         public static bool GetInt(string mensaje, string mensajeError, out int pNumero, int valorMinimo, int valorMaximo, int cantidadReintentos)
         {
             pNumero = 0;

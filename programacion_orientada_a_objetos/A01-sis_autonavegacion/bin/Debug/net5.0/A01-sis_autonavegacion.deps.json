@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "A01-sis_autonavegacion/1.0.0": {
+        "dependencies": {
+          "biblioteca_de_clases": "1.0.0"
+        },
+        "runtime": {
+          "A01-sis_autonavegacion.dll": {}
+        }
+      },
+      "biblioteca_de_clases/1.0.0": {
+        "runtime": {
+          "biblioteca_de_clases.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "A01-sis_autonavegacion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "biblioteca_de_clases/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

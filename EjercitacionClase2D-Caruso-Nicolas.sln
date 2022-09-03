@@ -54,7 +54,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02-cuantas_primavera", "pro
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03-ejemplo_universal", "programacion_orientada_a_objetos\03-ejemplo_universal\03-ejemplo_universal.csproj", "{225AA530-3878-4DD2-A77D-94C27A326E9B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-invento_argentino", "programacion_orientada_a_objetos\04-invento_argentino\04-invento_argentino.csproj", "{FE97BAD4-21B1-48D2-86B9-0BC7334E4FE5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04-invento_argentino", "programacion_orientada_a_objetos\04-invento_argentino\04-invento_argentino.csproj", "{FE97BAD4-21B1-48D2-86B9-0BC7334E4FE5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05-prueba_de_geometria", "programacion_orientada_a_objetos\05-prueba_de_geometria\05-prueba_de_geometria.csproj", "{25A2842F-DB35-4E84-9102-FC017876C59C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A01-sis_autonavegacion", "programacion_orientada_a_objetos\A01-sis_autonavegacion\A01-sis_autonavegacion.csproj", "{C910CDB0-DE57-46F5-A427-C9A39805332D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -146,6 +150,14 @@ Global
 		{FE97BAD4-21B1-48D2-86B9-0BC7334E4FE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FE97BAD4-21B1-48D2-86B9-0BC7334E4FE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FE97BAD4-21B1-48D2-86B9-0BC7334E4FE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25A2842F-DB35-4E84-9102-FC017876C59C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25A2842F-DB35-4E84-9102-FC017876C59C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25A2842F-DB35-4E84-9102-FC017876C59C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25A2842F-DB35-4E84-9102-FC017876C59C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C910CDB0-DE57-46F5-A427-C9A39805332D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C910CDB0-DE57-46F5-A427-C9A39805332D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C910CDB0-DE57-46F5-A427-C9A39805332D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C910CDB0-DE57-46F5-A427-C9A39805332D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -172,6 +184,8 @@ Global
 		{62FA3BFD-9D24-4A7F-AE0D-2E7F4BC3186F} = {EADDE1E1-2B4B-459C-896E-862649A0225A}
 		{225AA530-3878-4DD2-A77D-94C27A326E9B} = {EADDE1E1-2B4B-459C-896E-862649A0225A}
 		{FE97BAD4-21B1-48D2-86B9-0BC7334E4FE5} = {EADDE1E1-2B4B-459C-896E-862649A0225A}
+		{25A2842F-DB35-4E84-9102-FC017876C59C} = {EADDE1E1-2B4B-459C-896E-862649A0225A}
+		{C910CDB0-DE57-46F5-A427-C9A39805332D} = {EADDE1E1-2B4B-459C-896E-862649A0225A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {45060E3C-845D-4305-A743-DB165AA756FE}
