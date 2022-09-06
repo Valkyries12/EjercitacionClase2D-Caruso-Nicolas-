@@ -10,11 +10,15 @@ namespace biblioteca_de_clases
     {
         private string nombre;
         private int precio;
+        public static int codigoProducto;
 
         public Producto(string nombre, int precio)
         {
+            
+            codigoProducto++;
             this.nombre = nombre;
             this.precio = precio;
+
         }
 
 
@@ -28,5 +32,9 @@ namespace biblioteca_de_clases
             get { return precio; }
         }
 
+        public int CodigoProducto
+        {
+            get { return codigoProducto; }
+        }
     }
 }
