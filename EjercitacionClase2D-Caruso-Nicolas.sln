@@ -70,6 +70,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "windows_forms", "windows_fo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-Hola_winforms", "WinForms\01-Hola_winforms\01-Hola_winforms.csproj", "{26DEADAD-27ED-4681-BE3D-A68CA23B71E9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-Registrate", "WinForms\02-Registrate\02-Registrate.csproj", "{764F6898-8507-4376-AAD2-BE63C9A66FFE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -180,6 +182,10 @@ Global
 		{26DEADAD-27ED-4681-BE3D-A68CA23B71E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{26DEADAD-27ED-4681-BE3D-A68CA23B71E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{26DEADAD-27ED-4681-BE3D-A68CA23B71E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{764F6898-8507-4376-AAD2-BE63C9A66FFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{764F6898-8507-4376-AAD2-BE63C9A66FFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{764F6898-8507-4376-AAD2-BE63C9A66FFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{764F6898-8507-4376-AAD2-BE63C9A66FFE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -211,6 +217,7 @@ Global
 		{526BFB81-1F49-4055-B7E8-2163F58D8B11} = {EADDE1E1-2B4B-459C-896E-862649A0225A}
 		{57E884CD-8A8D-46C0-851D-6DFE5293945D} = {D52ACDF4-E551-4E8B-9C5C-30F436D64EEF}
 		{26DEADAD-27ED-4681-BE3D-A68CA23B71E9} = {C89C9088-ABD6-48DA-AF80-73417E7BACF9}
+		{764F6898-8507-4376-AAD2-BE63C9A66FFE} = {C89C9088-ABD6-48DA-AF80-73417E7BACF9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {45060E3C-845D-4305-A743-DB165AA756FE}
