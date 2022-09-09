@@ -1,0 +1,15 @@
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\colecciones\01-numeros_locos\obj\Debug\net6.0\01-numeros_locos.csproj.AssemblyReference.cache
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\colecciones\01-numeros_locos\obj\Debug\net6.0\01-numeros_locos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\colecciones\01-numeros_locos\obj\Debug\net6.0\01-numeros_locos.AssemblyInfoInputs.cache
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\colecciones\01-numeros_locos\obj\Debug\net6.0\01-numeros_locos.AssemblyInfo.cs
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\colecciones\01-numeros_locos\obj\Debug\net6.0\01-numeros_locos.csproj.CoreCompileInputs.cache
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\colecciones\01-numeros_locos\bin\Debug\net6.0\01-numeros_locos.exe
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\colecciones\01-numeros_locos\bin\Debug\net6.0\01-numeros_locos.deps.json
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\colecciones\01-numeros_locos\bin\Debug\net6.0\01-numeros_locos.runtimeconfig.json
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\colecciones\01-numeros_locos\bin\Debug\net6.0\01-numeros_locos.dll
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\colecciones\01-numeros_locos\bin\Debug\net6.0\01-numeros_locos.pdb
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\colecciones\01-numeros_locos\obj\Debug\net6.0\01-numeros_locos.dll
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\colecciones\01-numeros_locos\obj\Debug\net6.0\refint\01-numeros_locos.dll
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\colecciones\01-numeros_locos\obj\Debug\net6.0\01-numeros_locos.pdb
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\colecciones\01-numeros_locos\obj\Debug\net6.0\01-numeros_locos.genruntimeconfig.cache
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\colecciones\01-numeros_locos\obj\Debug\net6.0\ref\01-numeros_locos.dll
