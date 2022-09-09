@@ -74,9 +74,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02-Registrate", "WinForms\0
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "colecciones", "colecciones", "{A4ED80B0-9B2B-407D-8628-595FA2C5CB2A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-numeros_locos", "colecciones\01-numeros_locos\01-numeros_locos.csproj", "{801E27AF-6408-4A66-B024-89B9C16CE8A6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01-numeros_locos", "colecciones\01-numeros_locos\01-numeros_locos.csproj", "{801E27AF-6408-4A66-B024-89B9C16CE8A6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-numeros_locos_II", "colecciones\02-numeros_locos_II\02-numeros_locos_II.csproj", "{6367274B-F93F-410E-B287-9C03F2DF1F91}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02-numeros_locos_II", "colecciones\02-numeros_locos_II\02-numeros_locos_II.csproj", "{6367274B-F93F-410E-B287-9C03F2DF1F91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-a_contar_palabras", "colecciones\03-a_contar_palabras\03-a_contar_palabras.csproj", "{DE18E87B-389D-4103-87D1-1E3B44BE2751}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -200,6 +202,10 @@ Global
 		{6367274B-F93F-410E-B287-9C03F2DF1F91}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6367274B-F93F-410E-B287-9C03F2DF1F91}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6367274B-F93F-410E-B287-9C03F2DF1F91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE18E87B-389D-4103-87D1-1E3B44BE2751}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE18E87B-389D-4103-87D1-1E3B44BE2751}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE18E87B-389D-4103-87D1-1E3B44BE2751}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE18E87B-389D-4103-87D1-1E3B44BE2751}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -234,6 +240,7 @@ Global
 		{764F6898-8507-4376-AAD2-BE63C9A66FFE} = {C89C9088-ABD6-48DA-AF80-73417E7BACF9}
 		{801E27AF-6408-4A66-B024-89B9C16CE8A6} = {A4ED80B0-9B2B-407D-8628-595FA2C5CB2A}
 		{6367274B-F93F-410E-B287-9C03F2DF1F91} = {A4ED80B0-9B2B-407D-8628-595FA2C5CB2A}
+		{DE18E87B-389D-4103-87D1-1E3B44BE2751} = {A4ED80B0-9B2B-407D-8628-595FA2C5CB2A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {45060E3C-845D-4305-A743-DB165AA756FE}

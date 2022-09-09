@@ -1,0 +1,17 @@
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\colecciones\03-a_contar_palabras\bin\Debug\net6.0-windows\03-a_contar_palabras.exe
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\colecciones\03-a_contar_palabras\bin\Debug\net6.0-windows\03-a_contar_palabras.deps.json
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\colecciones\03-a_contar_palabras\bin\Debug\net6.0-windows\03-a_contar_palabras.runtimeconfig.json
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\colecciones\03-a_contar_palabras\bin\Debug\net6.0-windows\03-a_contar_palabras.dll
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\colecciones\03-a_contar_palabras\bin\Debug\net6.0-windows\03-a_contar_palabras.pdb
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\colecciones\03-a_contar_palabras\obj\Debug\net6.0-windows\03-a_contar_palabras.csproj.AssemblyReference.cache
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\colecciones\03-a_contar_palabras\obj\Debug\net6.0-windows\_03_a_contar_palabras.FormPrincipal.resources
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\colecciones\03-a_contar_palabras\obj\Debug\net6.0-windows\03-a_contar_palabras.csproj.GenerateResource.cache
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\colecciones\03-a_contar_palabras\obj\Debug\net6.0-windows\03-a_contar_palabras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\colecciones\03-a_contar_palabras\obj\Debug\net6.0-windows\03-a_contar_palabras.AssemblyInfoInputs.cache
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\colecciones\03-a_contar_palabras\obj\Debug\net6.0-windows\03-a_contar_palabras.AssemblyInfo.cs
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\colecciones\03-a_contar_palabras\obj\Debug\net6.0-windows\03-a_contar_palabras.csproj.CoreCompileInputs.cache
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\colecciones\03-a_contar_palabras\obj\Debug\net6.0-windows\03-a_contar_palabras.dll
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\colecciones\03-a_contar_palabras\obj\Debug\net6.0-windows\refint\03-a_contar_palabras.dll
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\colecciones\03-a_contar_palabras\obj\Debug\net6.0-windows\03-a_contar_palabras.pdb
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\colecciones\03-a_contar_palabras\obj\Debug\net6.0-windows\03-a_contar_palabras.genruntimeconfig.cache
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\colecciones\03-a_contar_palabras\obj\Debug\net6.0-windows\ref\03-a_contar_palabras.dll
