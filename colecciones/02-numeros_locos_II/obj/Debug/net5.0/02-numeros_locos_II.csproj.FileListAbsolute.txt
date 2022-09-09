@@ -1,0 +1,16 @@
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\colecciones\02-numeros_locos_II\obj\Debug\net5.0\02-numeros_locos_II.csproj.AssemblyReference.cache
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\colecciones\02-numeros_locos_II\obj\Debug\net5.0\02-numeros_locos_II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\colecciones\02-numeros_locos_II\obj\Debug\net5.0\02-numeros_locos_II.AssemblyInfoInputs.cache
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\colecciones\02-numeros_locos_II\obj\Debug\net5.0\02-numeros_locos_II.AssemblyInfo.cs
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\colecciones\02-numeros_locos_II\obj\Debug\net5.0\02-numeros_locos_II.csproj.CoreCompileInputs.cache
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\colecciones\02-numeros_locos_II\bin\Debug\net5.0\02-numeros_locos_II.exe
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\colecciones\02-numeros_locos_II\bin\Debug\net5.0\02-numeros_locos_II.deps.json
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\colecciones\02-numeros_locos_II\bin\Debug\net5.0\02-numeros_locos_II.runtimeconfig.json
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\colecciones\02-numeros_locos_II\bin\Debug\net5.0\02-numeros_locos_II.runtimeconfig.dev.json
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\colecciones\02-numeros_locos_II\bin\Debug\net5.0\02-numeros_locos_II.dll
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\colecciones\02-numeros_locos_II\bin\Debug\net5.0\02-numeros_locos_II.pdb
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\colecciones\02-numeros_locos_II\obj\Debug\net5.0\02-numeros_locos_II.dll
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\colecciones\02-numeros_locos_II\obj\Debug\net5.0\refint\02-numeros_locos_II.dll
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\colecciones\02-numeros_locos_II\obj\Debug\net5.0\02-numeros_locos_II.pdb
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\colecciones\02-numeros_locos_II\obj\Debug\net5.0\02-numeros_locos_II.genruntimeconfig.cache
+C:\Users\Nico\Desktop\Mi carpeta\UTN\PROGRAMAACION Y LABORATORIO 2\Ejercitacion_en_clase\colecciones\02-numeros_locos_II\obj\Debug\net5.0\ref\02-numeros_locos_II.dll
