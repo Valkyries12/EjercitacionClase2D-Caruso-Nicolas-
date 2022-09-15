@@ -1,6 +1,7 @@
-﻿using System;
+﻿using biblioteca_de_clases;
+using System;
 
-namespace _01_lanzar_y_atrapar
+namespace _01_el_viajar_es_un_placer
 {
     /*
      Crear un proyecto de biblioteca de clases con las clases Automovil, Moto, Camion.
@@ -19,6 +20,10 @@ namespace _01_lanzar_y_atrapar
         static void Main(string[] args)
         {
             Console.WriteLine("=== INICIO DEL PROGRAMA ===");
+
+            Automovil auto = new Automovil(4, 4, EColores.ROJO, 50, 5);
+            Camion camion = new Camion(6, 2, EColores.BLANCO, 76, 1500);
+            Moto moto = new Moto(2, 0, EColores.AZUL, 760);
 
 
             Console.WriteLine("=== FIN DEL PROGRAMA ===");
